@@ -5,3 +5,18 @@
   cd my-app
   npm start
 ```
+
+## components
+
+```
+{/*header*/}
+       {/*Home*/}
+           {/*banner*/}
+           {/*cards*/}
+           {/*footer*/}
+
+
+ {/*search page*/}
+           {/*Header*/}
+           {/*.......*/}
+```
