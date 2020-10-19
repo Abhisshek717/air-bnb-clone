@@ -6,7 +6,7 @@
   npm start
 ```
 
-## components
+## Components
 
 ```
 {/*header*/}
